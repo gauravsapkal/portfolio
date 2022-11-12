@@ -54,8 +54,7 @@ export const Projects = () => {
                     <div  >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/179463648-fd68d26f-df92-4595-b21a-26b978df8387.png"
-
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/landing.png"
                       />
 
                     </div>
@@ -63,7 +62,7 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/179464767-c61aa1b4-d7a2-43f5-ba3a-b1deb5fd3b55.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/footer.png"
 
                       />
 
@@ -74,19 +73,7 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/179464970-1f67237f-33a1-4a1a-a2b0-15dfcced40b3.png"
-
-                      />
-
-                    </div>
-
-
-
-
-                    <div >
-
-                      <img
-                        src="https://user-images.githubusercontent.com/97450767/179465093-3f2aae06-1927-4e4a-979c-dd87038cd234.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/dropdown.png"
 
                       />
 
@@ -98,7 +85,7 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/179465607-ab7901de-06ae-4462-901a-21856eb1ceaa.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/popup.png"
 
                       />
 
@@ -110,7 +97,7 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/179465753-71924947-cf80-4c3a-9505-0005784307a4.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/register.png"
 
                       />
 
@@ -119,11 +106,10 @@ export const Projects = () => {
 
 
 
-
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/179465906-e0a9bac9-7bc1-4936-98d3-c2b68cd1f512.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/login.png"
 
                       />
 
@@ -136,7 +122,7 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/179466323-5da7464c-e3fb-4919-b418-c2b8af47ffff.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/productpage.png"
 
                       />
 
@@ -149,49 +135,61 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/179466135-21fe9415-2c89-4b16-9afc-b8ffd746f724.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/productpagefilter.png"
 
                       />
 
                     </div>
-                    
+
+
+
+
+
+                    <div >
+
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/singlepage.png"
+
+                      />
+
+                    </div>
+
 
 
 
                     <div>
-                      <img src="https://user-images.githubusercontent.com/97450767/179466483-da54e829-f3eb-4637-add7-4ef67103f819.png" alt="" />
-                    </div>
-
-                    
-
-                    <div>
-                      <img src="https://user-images.githubusercontent.com/97450767/179466732-56ffa218-db2a-41d8-b4be-d8421f576582.png" alt="" />
+                      <img src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/payment.png" alt="" />
                     </div>
 
 
-                    <div>
-                      <img src="https://user-images.githubusercontent.com/97450767/179467521-7a8535dc-180a-46e8-9281-58b8947b3f1b.png" alt="" />
-                    </div>
-                    
 
                     <div>
-                      <img src="https://user-images.githubusercontent.com/97450767/179467616-6ce02e0d-37aa-4436-93bb-5677a7dce24c.png" alt="" />
+                      <img src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/cartbar.png" alt="" />
                     </div>
 
 
                     <div>
+                      <img src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/cart.png" alt="" />
+                    </div>
 
-                      <img src="https://user-images.githubusercontent.com/97450767/179468329-aa67d9eb-871c-450a-bad5-41af62815887.png" alt="" />
+
+                    <div>
+                      <img src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/payment.png" alt="" />
+                    </div>
+
+
+                    <div>
+
+                      <img src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/success.png" alt="" />
+                    </div>
+
+                    <div>
+
+                      <img src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/zappos/history.png" alt="" />
                     </div>
 
 
                   </Carousel>
-
-
-
-
-
-
 
                 </div>
 
@@ -201,8 +199,8 @@ export const Projects = () => {
               <div className="project_information">
                 <h2>Zappos.com</h2>
                 <p>
-                Zappos.com is an American online shoe and clothing retailer based in Las Vegas, Nevada, United States.
-                We use React for development of this website and also, we use Chakra UI, Redux, JSON Server.
+                  Zappos.com is an American online shoe and clothing retailer based in Las Vegas, Nevada, United States.
+                  We use React for development of this website and also, we use Chakra UI, Redux, JSON Server.
 
 
                 </p>
@@ -210,12 +208,12 @@ export const Projects = () => {
                 <div className="tec" >
                   <FaReact />
                   <SiRedux />
-                  <SiChakraui/>
+                  <SiChakraui />
                   {/* <BsGithub/> */}
-                  <BsBootstrap/>
-                   {/* <SiMaterialui/> */}
-                   
-                   <SiHeroku/>
+                  <BsBootstrap />
+                  {/* <SiMaterialui/> */}
+
+                  <SiHeroku />
 
                   <SiNetlify />
                 </div>
@@ -262,7 +260,7 @@ export const Projects = () => {
                     <div  >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/174476469-1ee7aee8-2b0f-488a-aa96-383f94177fe9.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/fatsecret/landing.png"
 
                       />
 
@@ -271,7 +269,7 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/174476499-0f2ee89a-cb0c-40e7-9a10-f152f0bc336a.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/fatsecret/register.png"
 
                       />
 
@@ -282,19 +280,7 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/174476515-2c9017ef-3e2a-4334-adf3-813f7823d972.png"
-
-                      />
-
-                    </div>
-
-
-
-
-                    <div >
-
-                      <img
-                        src="https://user-images.githubusercontent.com/97450767/174476542-b0f66a08-7b39-4fad-8a31-acbc39245918.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/fatsecret/registerdetailed.png"
 
                       />
 
@@ -306,7 +292,7 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/174476562-c239ca0f-7729-484d-9211-efd3d2f68e59.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/fatsecret/social.png"
 
                       />
 
@@ -318,7 +304,7 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/174476568-ce2f4907-0216-4ef9-8849-b0c67c383a25.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/fatsecret/comments.png"
 
                       />
 
@@ -331,43 +317,27 @@ export const Projects = () => {
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/174476603-3d883a04-fd5c-4e65-8b8c-1b11cb5b78da.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/fatsecret/foodpage.png"
 
                       />
 
                     </div>
-
-
-
-
-
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/174476623-b77f57e3-ddc3-4a7a-ac4a-34c433a4eecb.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/fatsecret/recipepage.png"
 
                       />
 
                     </div>
-
-
-
-
-
                     <div >
 
                       <img
-                        src="https://user-images.githubusercontent.com/97450767/174476633-ad53afc0-0b43-4d25-b3cb-4746fdf3a11b.png"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/fatsecret/single.png"
 
                       />
 
                     </div>
-
-
-
-
-
-
 
 
 
@@ -387,19 +357,19 @@ export const Projects = () => {
               <div className="project_information">
                 <h2>FatSecret</h2>
                 <p>
-                FatSecret is a new online diet, nutrition and weight loss community that harnesses contributions of members.
-                We designed and developed this website clone using HTML, CSS, JavaScript, JSON Server, Heroku and other tools and technologies.
+                  FatSecret is a new online diet, nutrition and weight loss community that harnesses contributions of members.
+                  We designed and developed this website clone using HTML, CSS, JavaScript, JSON Server, Heroku and other tools and technologies.
                 </p>
 
                 <div className="tec" >
                   {/* <FaReact /> */}
                   {/* <SiRedux /> */}
                   {/* <SiChakraui /> */}
-                  <SiHtml5/>
-                  <DiCss3Full/>
-                  <SiJavascript/>
-                  <BsGithub/>
-                  <SiHeroku/>
+                  <SiHtml5 />
+                  <DiCss3Full />
+                  <SiJavascript />
+                  <BsGithub />
+                  <SiHeroku />
                   <SiNetlify />
                 </div>
 
@@ -445,28 +415,45 @@ export const Projects = () => {
                     <div  >
 
                       <img
-                        src="https://camo.githubusercontent.com/07c4a50179a68bd67a55806b9f21fc292461675f8a3bea57397813668255d8d6/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f622f523239765a32786c2f415676587345694e4a636130483254725667524e5a5150494455756e76394a474d4c70364346564e59655f57785751366a7162775530534351523333794d6430656779315f4c3937723658577263646a30366974354479377a6c7877662d422d324870316c793052366c30496266784e424b3978684246705f48424c7374424175564279436d546d3669344a627a7048353350422d696b4e6d3478577554757768516e67724849446b43594a514f585247554d6857425469726d5473554132732f73313238302f5768617473417070253230496d616765253230323032322d30342d3032253230617425323031332e33372e30322e6a706567"
-                        alt="MyGlamm1"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/naukri/landing.png"
+                        alt=""
                       />
 
                     </div>
 
-                    <div >
+                    <div  >
 
                       <img
-                        src="https://camo.githubusercontent.com/46eb7d2e904e21d808cb4ea1fb259abe6077fac18e17c777d23ba9923b3a1757/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f622f523239765a32786c2f4156765873456744307a486e4430394e77784e74647839712d3064744373566c43394a5a7642506a42384b5546674c32734474325330514c56786a39326379775f72665a4270394d6f74627779744f5f5034534e50486f53454d536d4468466355556d675850334f67676e375f3579662d6c7a5a6b4c6b507141517333676a456b78625979504742637038644d4d73766a71476747786b6f434c4e744975415339785a6347494c69774577374b6b785f6d7a44366b70425361725750435a542d2f73313238302f5768617473417070253230496d616765253230323032322d30342d3033253230617425323031332e33332e32372e6a706567"
-                        alt="MyGlamm5"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/naukri/register.png"
+                        alt=""
                       />
 
-                    </div>
-
-
-
-                    <div >
+                    </div><div  >
 
                       <img
-                        src="https://camo.githubusercontent.com/5c3347a8a07bc32a5d29c0492487c0f89e034b4a61298078df51560c4d35dfe3/68747470733a2f2f626c6f676765722e676f6f676c6575736572636f6e74656e742e636f6d2f696d672f612f4156765873456953307334684b6c64346f6f6642784f4e4c53636570726279544350625a6d4542307663574b7a3233515033714f566b70372d6e766f6b5767597557376c665039674d726759596d36496a417a6c495262676b766d4c393448427736437a5074794c2d4e44595865496342706c4b73723459785f5761355153796c6b35334a4643477a79363232737841446a7933735836373057756d4c756b6366696554667a386b5262556a7233486478527131585431366e657470395769743d7331323830"
-                        alt="MyGlamm6"
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/naukri/featured.png"
+                        alt=""
+                      />
+
+                    </div><div  >
+
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/naukri/list.png"
+                        alt=""
+                      />
+
+                    </div><div  >
+
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/naukri/post.png"
+                        alt=""
+                      />
+
+                    </div><div  >
+
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/naukri/single.png"
+                        alt=""
                       />
 
                     </div>
@@ -493,14 +480,14 @@ export const Projects = () => {
               <div className="project_information">
                 <h2>Naukri.com</h2>
                 <p>
-                Naukri job search website is one of India's largest job search site for job seekers and also for companies to find right talent.
-                User can able to register and login on our website and search different jobs according to their need and apply.
+                  Naukri job search website is one of India's largest job search site for job seekers and also for companies to find right talent.
+                  User can able to register and login on our website and search different jobs according to their need and apply.
                 </p>
                 <div className="tec" >
                   <SiHtml5 />
                   <DiCss3 />
-                  <BsGithub/>
-                  <DiGit/>
+                  <BsGithub />
+                  <DiGit />
                   <SiNetlify />
                 </div>
                 <div>
