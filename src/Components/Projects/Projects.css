@@ -42,6 +42,12 @@
   border: 3px solid var(--clr-primary);
   border-radius: 20px;
 }
+
+.project_videocontainer img{
+  height: 200px;
+}
+
+
 .tec{
   width: 90%;
   /* border: 1px solid red; */

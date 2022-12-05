@@ -20,8 +20,9 @@ import {
   SiRedux,
   SiChakraui,
   SiHeroku,
+  SiJsonwebtokens,
 } from "react-icons/si";
-import { DiCss3, DiCss3Full, DiGit } from "react-icons/di";
+import { DiCss3, DiCss3Full, DiGit, DiReact } from "react-icons/di";
 import { VscJson } from "react-icons/vsc";
 import { IoLogoJavascript } from "react-icons/io";
 
@@ -230,6 +231,114 @@ export const Projects = () => {
                   </a>
                   <a
                     href="https://github.com/gauravsapkal/zappos"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt">
+                      View Code
+                    </span>
+                  </a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
+
+
+
+
+          <div className="projects_container" data-aos="fade-right">
+            <div className="project">
+
+              <div className="project_videocontainer" >
+
+                <div >
+
+                  <Carousel className="project_videocontainer" autoPlay={true} infiniteLoop={true} showIndicators={false} showThumbs={false} showStatus={false} >
+
+                    <div>
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/overstock/landing.png"
+                        alt="overstock"
+                      />
+                    </div>
+
+                    <div>
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/overstock/products.png"
+                        alt="overstock"
+                      />
+                    </div>
+
+                    <div>
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/overstock/filters.png"
+                        alt="overstock"
+                      />
+                    </div>
+
+                    <div>
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/overstock/single%20product.png"
+                        alt="overstock"
+                      />
+                    </div>
+
+                    <div>
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/overstock/cart.png"
+                        alt="overstock"
+                      />
+                    </div>
+
+                    <div>
+                      <img
+                        src="https://raw.githubusercontent.com/gauravsapkal/portfolio/main/imagesdata/overstock/payment.png"
+                        alt="overstock"
+                      />
+                    </div>
+
+                  </Carousel>
+
+                </div>
+
+              </div>
+
+
+
+
+
+              <div className="project_information">
+                <h2>Overstock.com</h2>
+                <p>
+                Overstock.com Inc. Company is an e-commerce retailer offering customers furniture, home decor, and dining items.
+                  This project has all functionalities as of original site with backend deployed on render.
+
+                </p>
+                <div className="tec" >
+                  <DiReact/>
+                  <SiRedux/>
+                  <SiChakraui/>
+                  <SiNodedotjs/>
+                  <SiMongodb/>
+                  <SiExpress/>
+                  <SiJsonwebtokens/>
+                  
+                </div>
+                <div>
+                  <a
+                    href="https://overstock-mern.netlify.app/"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <span type="button" className="btns onbt onbt">
+                      See this Live
+                    </span>
+                  </a>
+                  <a
+                    href="https://github.com/gauravsapkal/overstock-MERN-app"
                     target="_blank"
                     rel="noreferrer"
                   >
@@ -517,103 +626,6 @@ export const Projects = () => {
 
 
 
-
-
-
-          {/* <div className="projects_container" data-aos="fade-right">
-            <div className="project">
-
-              <div className="project_videocontainer" >
-
-                <div >
-
-                  <Carousel className="project_videocontainer" autoPlay={true} infiniteLoop={true} showIndicators={false} showThumbs={false} showStatus={false} >
-
-                    <div>
-                      <img
-                        src="https://miro.medium.com/max/700/1*VNb0tcgKmYTYfVrLPCQLYg.png"
-                        alt="Max Fashion"
-                      />
-                    </div>
-
-
-                    <div>
-                      <img
-                        src="https://user-images.githubusercontent.com/97450767/169753033-7cdb19dd-7764-4893-aba0-998c4fdecd06.png"
-                        alt="Max Fashion"
-                      />
-                    </div>
-
-
-                    <div>
-                      <img
-                        src="https://user-images.githubusercontent.com/97450767/169752904-7f9d0f0f-2cd6-45af-9154-fb522037750c.png"
-                        alt="Max Fashion"
-                      />
-                    </div>
-
-
-                    <div>
-                      <img
-                        src="https://user-images.githubusercontent.com/97450767/169753085-e07e805f-a6c2-41be-8c2b-0cf0f2fcae68.png"
-                        alt="Max Fashion"
-                      />
-                    </div>
-
-
-                    <div>
-                      <img
-                        src="https://user-images.githubusercontent.com/97450767/169753159-1e7c34b8-7030-43ba-8131-5dadf05e33a3.png"
-                        alt="Max Fashion"
-                      />
-                    </div>
-
-
-
-                  </Carousel>
-
-                </div>
-
-              </div>
-
-
-
-
-
-              <div className="project_information">
-                <h2>Max Fashion</h2>
-                <p>
-                  Max Fashion is an ecommerce shopping  web application which provides clothes for all genders. We had to clone this website. This was a collaborative project built by a team of 5 executed in just 5 days.
-                </p>
-                <div className="tec" >
-                  <SiHtml5 />
-                  <DiCss3 />
-                  <SiNodedotjs />
-                  <BsBootstrap />
-                </div>
-                <div>
-                  <a
-                    href="https://maxfashionclone.netlify.app/"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt onbt">
-                      See this Live
-                    </span>
-                  </a>
-                  <a
-                    href="https://github.com/utukaule/MaxFashion.git"
-                    target="_blank"
-                    rel="noreferrer"
-                  >
-                    <span type="button" className="btns onbt">
-                      View Code
-                    </span>
-                  </a>
-                </div>
-              </div>
-            </div>
-          </div> */}
 
           {/* <div className="projects_container" data-aos="fade-right">
             <div className="project">
